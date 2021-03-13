@@ -45,7 +45,7 @@ describe('basic math functions', function () {
   it('decrement(n) decrements n and returns the result', function() {
     expect(decrement(a)).toEqual(a - 1)
   })
-})
+}) 
 
 
 
